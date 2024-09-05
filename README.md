@@ -1,4 +1,4 @@
-<h1 align="center">Hey, this is Sanjanah.Feel free to explore my repositories!</h1>
+<h1 align="center">Feel free to explore my repositories!</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanah8&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanah8" /> </p>
