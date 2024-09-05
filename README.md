@@ -1,11 +1,10 @@
-<h1 align="center">Hey, I'm Sanjanah</h1>
+<h1 align="center">Hey, this is Sanjanah.Feel free to explore my repositories!</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanah8&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanah8" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanah8&" alt="sanjanah8" /></p>
 
-- 🌱 I’m currently learning **Java,Generative AI**
 
 - ⚡ Fun fact **I train models and my cat at the same time!**
 
