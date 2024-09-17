@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanah8&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanah8" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanah8&" alt="sanjanah8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanah8&" alt="Sanjanah8" /></p>
 
 
 - ⚡ Fun fact **I train models and my cat at the same time!**
