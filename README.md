@@ -1,6 +1,3 @@
-<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
-<h3 align="center">Feel free to explore my repositories and connect with me!</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanjanah8&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sanjanah8?label=Followers&style=social" alt="GitHub Followers" />
@@ -15,7 +12,7 @@
 
 ---
 
-<h2 align="center">💬 Connect with Me!</h2>
+<h2 align="center"> Connect with Me!</h2>
 <p align="center">
   <a href="https://linkedin.com/in/sanjanah8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
