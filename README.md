@@ -8,7 +8,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanah8&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">⚡ Fun Fact: I train models and my cat at the same time! 🐱🤖</h3>
+<h3 align="center">⚡ Fun Fact: I train models and my cat at the same time! </h3>
 
 ---
 
@@ -73,10 +73,3 @@
 </p>
 
 
----
-
-<h2 align="center">📈 Languages Usage:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanah8&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-  <p align="center"> 
-</p>
