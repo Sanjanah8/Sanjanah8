@@ -53,6 +53,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -69,7 +72,7 @@
 
 <h2 align="center">🐍 Watch My Contribution Snake:</h2>
 <p align="center">
-  ![Snake animation](https://github.com/<Sanjanah8>/<Sanjanah8>/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/sanjanah8/sanjanah8/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -77,4 +80,20 @@
 <h2 align="center">🌟 GitHub Streak & Highlights:</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanah8&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">📈 Languages Usage:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanah8&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <p align="center"> 
+  <strong>Languages Used:</strong>
+  <ul>
+    <li>C: 15%</li>
+    <li>C++: 20%</li>
+    <li>Java: 10%</li>
+    <li>JavaScript: 25%</li>
+    <li>Python: 30%</li>
+  </ul>
 </p>
