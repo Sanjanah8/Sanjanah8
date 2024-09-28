@@ -67,10 +67,11 @@
 
 ---
 
-<h2 align="center">🐍 Watch My Contribution Snake:</h2>
+## 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://github.com/sanjanah8/sanjanah8/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/sanjanah8/sanjanah8/blob/output/github-contribution-grid-snake.svg)
 </p>
+
 
 ---
 
