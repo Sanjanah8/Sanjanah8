@@ -77,23 +77,8 @@
 
 ---
 
-<h2 align="center">🌟 GitHub Streak & Highlights:</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanah8&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 <h2 align="center">📈 Languages Usage:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanah8&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   <p align="center"> 
-  <strong>Languages Used:</strong>
-  <ul>
-    <li>C: 15%</li>
-    <li>C++: 20%</li>
-    <li>Java: 10%</li>
-    <li>JavaScript: 25%</li>
-    <li>Python: 30%</li>
-  </ul>
 </p>
