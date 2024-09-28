@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/github/followers/sanjanah8?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/sanjanah8?label=Stars&style=social" alt="GitHub Stars" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanah8&theme=radical" alt="GitHub Streak" />
 </p>
