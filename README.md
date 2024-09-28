@@ -69,7 +69,7 @@
 
 <h2 align="center">🐍 Watch My Contribution Snake:</h2>
 <p align="center">
-  <img src="https://github.com/sanjanah8/sanjanah8/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  ![Snake animation](https://github.com/<Sanjanah8>/<Sanjanah8>/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
