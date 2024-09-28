@@ -1,22 +1,27 @@
-name: Generate Snake
+name: Snake Animation
+
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
-  workflow_dispatch:
+  push:
+    branches:
+      - main  # Change to your default branch if different
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: .github/snake
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user: sanjanah8  # Replace with your GitHub username
+          output: output/github-contribution-grid-snake.svg
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake animation"
+          git push
