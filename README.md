@@ -7,7 +7,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanah8&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">⚡ Fun Fact: I train models and my cat at the same time! </h3>
+<h3 align="center">Fun Fact: I train models and my cat at the same time! </h3>
 
 ---
 
@@ -40,18 +40,13 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" />
-  </a>
+
 </p>
 
 ---
@@ -66,9 +61,6 @@
 
 ---
 
-## 🐍 Contribution Snake:
-<p align="center">
-  ![Snake animation](https://github.com/sanjanah8/sanjanah8/blob/output/github-contribution-grid-snake.svg)
-</p>
+
 
 
