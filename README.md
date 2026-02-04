@@ -5,7 +5,12 @@
   
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanjanah8&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=sanjanah8
+&theme=radical
+&hide_border=true
+&fire=FF69B4
+&ring=FF69B4" />
+
 </p>
 
 
