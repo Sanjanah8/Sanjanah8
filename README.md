@@ -3,10 +3,6 @@
   <img src="https://img.shields.io/github/followers/sanjanah8?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/sanjanah8?label=Stars&style=social" alt="GitHub Stars" />
   
-![Streak](https://github-readme-streak-stats-git-main-p-r-k.vercel.app/?user=sanjanah8)
-
-
-
 <h3 align="center">Fun Fact: I train models and my cat at the same time! </h3>
 
 ---
@@ -26,7 +22,7 @@
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools:</h2>
+<h2 align="center"> Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -51,7 +47,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 align="center"> GitHub Stats:</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjanah8&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
