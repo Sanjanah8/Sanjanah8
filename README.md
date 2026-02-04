@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/followers/sanjanah8?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/sanjanah8?label=Stars&style=social" alt="GitHub Stars" />
   
-![Streak](https://github-readme-streak-stats-git-main-p-r-k.vercel.app/?user=sanjanah8)
+<-![Streak](https://github-readme-streak-stats-git-main-p-r-k.vercel.app/?user=sanjanah8)->
 
 
 
