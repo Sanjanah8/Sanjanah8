@@ -3,7 +3,8 @@
   <img src="https://img.shields.io/github/followers/sanjanah8?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/sanjanah8?label=Stars&style=social" alt="GitHub Stars" />
   
-![Streak](https://streak-stats.demolab.com/?user=sanjanah8&theme=radical)
+![Streak](https://github-readme-streak-stats-git-main-p-r-k.vercel.app/?user=sanjanah8)
+
 
 
 <h3 align="center">Fun Fact: I train models and my cat at the same time! </h3>
